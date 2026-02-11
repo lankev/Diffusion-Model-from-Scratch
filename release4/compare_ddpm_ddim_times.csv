@@ -1,0 +1,7 @@
+method,steps,eta,time_seconds,image_path
+ddpm,1000,,31.16717267036438,./release4/compare_ddpm_steps_1000_label_0.png
+ddim,200,0.0,5.7947564125061035,./release4/compare_ddim_steps_200_eta_0.0_label_0.png
+ddim,100,0.0,2.860799551010132,./release4/compare_ddim_steps_100_eta_0.0_label_0.png
+ddim,50,0.0,1.3792235851287842,./release4/compare_ddim_steps_50_eta_0.0_label_0.png
+ddim,25,0.0,0.6921665668487549,./release4/compare_ddim_steps_25_eta_0.0_label_0.png
+ddim,10,0.0,0.31189823150634766,./release4/compare_ddim_steps_10_eta_0.0_label_0.png
